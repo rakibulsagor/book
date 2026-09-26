@@ -72,7 +72,7 @@ to keep the online version of the book close to the print version when
 possible, it may take longer than you're used to for us to address your issue
 or pull request.
 
-[nostarch]: https://nostarch.com/rust-programming-language-2nd-edition
+[nostarch]: [https://nostarch.com/rust-programming-language-3e]
 
 So far, we've been doing a larger revision to coincide with [Rust Editions](https://doc.rust-lang.org/edition-guide/). Between those larger
 revisions, we will only be correcting errors. If your issue or pull request
